@@ -32,7 +32,7 @@ public class AddProductToCartTest extends BaseClass {
 				//Read data from Excel File
 				String PRODUCTNAME = fUtil.readDataFromExcel("Products", 1, 2);
 				//has to be added to cart-run time data
-				System.out.println(PRODUCTNAME);
+			//	System.out.println(PRODUCTNAME);
 				
 				
 				//click on product
